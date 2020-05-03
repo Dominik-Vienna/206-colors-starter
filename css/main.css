@@ -79,6 +79,12 @@ footer {
     background-color: #001a66;
   }
 
+  /*widths*/
+  .col-3 {
+    width: 50%;
+    height: 320px;
+    float: left;
+
 }
 
 
@@ -103,5 +109,9 @@ footer {
   footer {
     background-color:#e0e0d2;
   }
-
+/*widths*/
+.col-3 {
+  width: 33.3%;
+  height: 320px;
+  float: left;
 }
